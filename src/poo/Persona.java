@@ -10,4 +10,12 @@ package poo;
  */
 public class Persona {
     
+    int edad;
+    String nombre;
+    private int id;   
+    
+    
+    
+    
+    
 }
